@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- HYBRID Stool/Side Table - gray with thin legs -->
+  <!-- Table top -->
+  <rect x="90" y="120" width="220" height="16" rx="2" fill="#d4d0ca" stroke="#b0aca6" stroke-width="1.5"/>
+  <!-- Raised edge/lip -->
+  <rect x="90" y="108" width="220" height="14" rx="2" fill="#c8c4be" stroke="#b0aca6" stroke-width="1"/>
+  <!-- Legs - thin angled -->
+  <line x1="110" y1="136" x2="100" y2="330" stroke="#b0aca6" stroke-width="4" stroke-linecap="round"/>
+  <line x1="290" y1="136" x2="300" y2="330" stroke="#b0aca6" stroke-width="4" stroke-linecap="round"/>
+  <line x1="200" y1="136" x2="200" y2="330" stroke="#b0aca6" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cross bar -->
+  <line x1="120" y1="250" x2="280" y2="250" stroke="#b0aca6" stroke-width="2"/>
+</svg>

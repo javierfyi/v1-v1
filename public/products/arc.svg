@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- ARC Chair - minimalist gray chair with legs -->
+  <!-- Seat back -->
+  <rect x="100" y="80" width="200" height="140" rx="4" fill="#c8c4be" stroke="#b0aca6" stroke-width="2"/>
+  <!-- Seat -->
+  <rect x="95" y="210" width="210" height="20" rx="2" fill="#d4d0ca" stroke="#b0aca6" stroke-width="1.5"/>
+  <!-- Legs -->
+  <rect x="110" y="230" width="10" height="100" rx="2" fill="#b0aca6"/>
+  <rect x="150" y="230" width="10" height="100" rx="2" fill="#b0aca6"/>
+  <rect x="240" y="230" width="10" height="100" rx="2" fill="#b0aca6"/>
+  <rect x="280" y="230" width="10" height="100" rx="2" fill="#b0aca6"/>
+</svg>
