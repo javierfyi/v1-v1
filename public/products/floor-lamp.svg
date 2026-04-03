@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Tall floor lamp -->
+  <circle cx="100" cy="30" r="18" fill="#f0ece7" stroke="#d4cfc8" stroke-width="1"/>
+  <rect x="98" y="48" width="4" height="110" fill="#1a1a1a"/>
+  <ellipse cx="100" cy="162" rx="20" ry="4" fill="#1a1a1a"/>
+</svg>

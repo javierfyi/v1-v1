@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Storage cabinet/box -->
+  <rect x="55" y="50" width="90" height="110" rx="3" fill="#d4cfc8"/>
+  <rect x="58" y="53" width="84" height="52" rx="2" fill="#e8e4df"/>
+  <rect x="58" y="108" width="84" height="49" rx="2" fill="#e8e4df"/>
+  <circle cx="100" cy="79" r="3" fill="#999"/>
+  <circle cx="100" cy="132" r="3" fill="#999"/>
+</svg>

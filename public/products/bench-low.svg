@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Low bench -->
+  <rect x="30" y="100" width="140" height="12" rx="3" fill="#8b7355"/>
+  <rect x="40" y="112" width="8" height="50" rx="2" fill="#7a6548"/>
+  <rect x="152" y="112" width="8" height="50" rx="2" fill="#7a6548"/>
+</svg>

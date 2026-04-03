@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- White/cream stool -->
+  <ellipse cx="100" cy="80" rx="40" ry="8" fill="#e8e4df"/>
+  <ellipse cx="100" cy="76" rx="40" ry="8" fill="#f0ece7"/>
+  <line x1="70" y1="84" x2="75" y2="160" stroke="#d4cfc8" stroke-width="6" stroke-linecap="round"/>
+  <line x1="130" y1="84" x2="125" y2="160" stroke="#d4cfc8" stroke-width="6" stroke-linecap="round"/>
+  <line x1="100" y1="88" x2="100" y2="160" stroke="#d4cfc8" stroke-width="6" stroke-linecap="round"/>
+</svg>

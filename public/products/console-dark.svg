@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Dark console/side table -->
+  <rect x="45" y="70" width="110" height="8" rx="2" fill="#2c2c2c"/>
+  <rect x="50" y="78" width="6" height="85" rx="2" fill="#2c2c2c"/>
+  <rect x="144" y="78" width="6" height="85" rx="2" fill="#2c2c2c"/>
+  <rect x="50" y="115" width="100" height="5" rx="1" fill="#3a3a3a"/>
+</svg>

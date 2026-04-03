@@ -1,39 +1,92 @@
+export type Category = "All" | "Seating" | "Tables" | "Lighting" | "Storage" | "Objects";
+
 export type Product = {
   id: string;
   name: string;
-  type: string;
-  price: string;
+  category: Category;
   image: string;
-  colors?: string[];
 };
+
+export const CATEGORIES: Category[] = [
+  "All",
+  "Seating",
+  "Tables",
+  "Lighting",
+  "Storage",
+  "Objects",
+];
 
 export const PRODUCTS: Product[] = [
   {
-    id: "arc",
-    name: "ARC",
-    type: "CHAIR",
-    price: "2,100.00€",
-    image: "/products/arc.svg",
+    id: "chair-dark",
+    name: "Lina Chair",
+    category: "Seating",
+    image: "/products/chair-dark.svg",
   },
   {
-    id: "stairs",
-    name: "STAIRS",
-    type: "WALL SHELF",
-    price: "FROM 480.00€",
-    image: "/products/stairs.svg",
-    colors: ["#d4a017", "#1a1a1a", "#c62828", "#1565c0"],
+    id: "stool-white",
+    name: "Alto Stool",
+    category: "Seating",
+    image: "/products/stool-white.svg",
   },
   {
-    id: "hybrid",
-    name: "HYBRID",
-    type: "STOOL / SIDE TABLE",
-    price: "FROM 900.00€",
-    image: "/products/hybrid.svg",
+    id: "table-round",
+    name: "Orb Table",
+    category: "Tables",
+    image: "/products/table-round.svg",
+  },
+  {
+    id: "floor-lamp",
+    name: "Stem Floor Lamp",
+    category: "Lighting",
+    image: "/products/floor-lamp.svg",
+  },
+  {
+    id: "table-lamp",
+    name: "Cone Table Lamp",
+    category: "Lighting",
+    image: "/products/table-lamp.svg",
+  },
+  {
+    id: "shelf-unit",
+    name: "Tier Shelf",
+    category: "Storage",
+    image: "/products/shelf-unit.svg",
+  },
+  {
+    id: "side-table",
+    name: "Duo Side Table",
+    category: "Tables",
+    image: "/products/side-table.svg",
+  },
+  {
+    id: "console-dark",
+    name: "Line Console",
+    category: "Tables",
+    image: "/products/console-dark.svg",
+  },
+  {
+    id: "bench-low",
+    name: "Plank Bench",
+    category: "Seating",
+    image: "/products/bench-low.svg",
+  },
+  {
+    id: "stool-round",
+    name: "Dot Stool",
+    category: "Seating",
+    image: "/products/stool-round.svg",
+  },
+  {
+    id: "desk-lamp",
+    name: "Arc Desk Lamp",
+    category: "Lighting",
+    image: "/products/desk-lamp.svg",
+  },
+  {
+    id: "storage-box",
+    name: "Mono Cabinet",
+    category: "Storage",
+    image: "/products/storage-box.svg",
   },
 ];
-
-export const FEATURED_PRODUCT = {
-  name: "HYBRID",
-  type: "BENCH / TABLE",
-  price: "FROM 1,200.00€",
-};

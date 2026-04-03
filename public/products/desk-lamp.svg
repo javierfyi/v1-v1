@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Desk lamp / articulated -->
+  <ellipse cx="100" cy="158" rx="18" ry="4" fill="#1a1a1a"/>
+  <line x1="100" y1="154" x2="85" y2="100" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="85" y1="100" x2="115" y2="50" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="122" cy="48" rx="16" ry="8" fill="#1a1a1a" transform="rotate(-20 122 48)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Round dark table -->
+  <ellipse cx="100" cy="75" rx="55" ry="10" fill="#2c2c2c"/>
+  <ellipse cx="100" cy="72" rx="55" ry="10" fill="#3a3a3a"/>
+  <rect x="95" y="82" width="10" height="70" rx="3" fill="#2c2c2c"/>
+  <ellipse cx="100" cy="155" rx="30" ry="6" fill="#2c2c2c"/>
+</svg>
